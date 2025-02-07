@@ -14,8 +14,8 @@ An advanced web-based insurance fraud detection platform leveraging AI technolog
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aditya-Sureka/insurance-fraud-detection.git
-   cd insurance-fraud-detection
+   git clone https://github.com/Aditya-Sureka/AI-Prototype.git
+   cd AI-Prototype
    ```
 
 2. Install dependencies:
